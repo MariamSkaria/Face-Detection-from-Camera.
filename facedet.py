@@ -23,7 +23,7 @@ def detfacecamera():
             break
     cap.release()
     cv2.destroyAllWindows()
-    
+detfacecamera()
 
 
 
