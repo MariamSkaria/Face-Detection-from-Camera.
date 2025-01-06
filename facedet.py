@@ -24,7 +24,7 @@ def detfacecamera():
     cap.release()
     cv2.destroyAllWindows()
     
-detfacecamera()
+
 
 
    
