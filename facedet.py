@@ -21,8 +21,7 @@ def detfacecamera():
         cv2.imshow('Live Face Detection', frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
-    cap.release()
-    cv2.destroyAllWindows()
+    
 detfacecamera()
 
 
