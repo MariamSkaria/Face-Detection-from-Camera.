@@ -3,7 +3,7 @@
 This repository contains a Python script that performs face recognition using OpenCV and Haar Cascade Classifier. The script detects faces from our device camera and highlights them with bounding boxes.
 
 ## Features
-- Detects faces in an image using OpenCV's pre-trained Haar Cascade Classifier.
+- Detects faces from the camera using OpenCV's pre-trained Haar Cascade Classifier.
 - Draws bounding boxes around detected faces.
 - Provides a simple and reusable function for face detection.
 
