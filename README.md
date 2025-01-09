@@ -41,3 +41,4 @@ This project is licensed under the GNU. Feel free to use, modify, and distribute
 
 ## Contributing
 Contributions are welcome! If you find bugs or want to improve the script, please submit a pull request.
+
