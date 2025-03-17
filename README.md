@@ -1,4 +1,4 @@
-# Face Recognition through Live Cam
+# Face Recognition through Live Came
 
 This repository contains a Python script that performs face recognition using OpenCV and Haar Cascade Classifier. The script detects faces from our device camera and highlights them with bounding boxes.
 
